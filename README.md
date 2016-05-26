@@ -1,4 +1,5 @@
 # Wordpress
+Wordpress,themes,Plugs
 
 # Wordpress theme for OpenBox：
 
@@ -6,4 +7,4 @@
 
 2）下载主题包后台安装即可，不依赖任何插件。
 
-3）有任何问题，请到http://openue.com/openbox进行反馈。
+3）有任何问题，请到 http://openue.com/openbox 进行反馈。
